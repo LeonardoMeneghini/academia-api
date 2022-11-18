@@ -12,7 +12,7 @@
 	<artifactId>academia-digital</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>academia-digital</name>
-	<description>Tutorial API RESTful modelando sistema de academia de ginástica</description>
+	<description>API RESTful modelando sistema de academia de ginástica</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>

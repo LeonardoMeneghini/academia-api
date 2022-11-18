@@ -6,5 +6,7 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface AvaliacaoFisicaRepository extends JpaRepository<AvaliacaoFisica, Long> {
+    //Outra forma:
+    //public interface AvaliacaoFisicaRepository extends CrudRepository{}
 
 }
